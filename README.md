@@ -1,2 +1,6 @@
 # Housing-Market-Multivariable-Regression
-Predicting house price with Multivariable Regression on real life dataset - Melbourne Housing Market from Kaggle
+
+Data Cleaning and Exploration on  real life dataset - Melbourne Housing Market
+
+Predicting house price using Random Forests and Ridge regression
+
